@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 5000,
+      "repeat-delay": 60,
       "messages": [
         "zapraszam do zaobserwowania mnie na indtagramie: netherowy1 ",
         "Pozdrawia netherytowy2-twórca skryptu",
