@@ -1,48 +1,25 @@
-# 🤖 Aternos 24/7 Hosting Bot
-
-A Minecraft bot that helps keep an Aternos server online 24/7 by automatically joining it using a Mineflayer-based bot. Perfect for SMPs or small multiplayer servers that shut down when no players are online.
-
----
-
-## ✨ Features
-*   ✅ **Auto-Connect**: Automatically joins your server.
-*   ✅ **Infinite Uptime**: Prevents AFK kicks and server shutdowns.
-*   ✅ **Smart Reconnect**: Automatically reconnects if the internet drops or server restarts.
-*   ✅ **Render-Ready**: Includes "Self-Ping" to run 24/7 for FREE on Render.com.
-*   ✅ **Plugin Support**: Compatible with Paper/Spigot/Bukkit (auto-auth included).
-
----
-
-## 🛠️ Requirements
-*   **GitHub Account**
-*   **Aternos Server**
-*   **Render Account** (for 24/7 hosting)
-*   **Common Sense!** 🧠        
-
----
-
-## 🚀 Setup Guide
-
-We have made setup super easy! Check out the guide below:
-
-[**Detailed Google Doc Guide**](https://docs.google.com/document/d/1Fl0dRzP6O30ehp5-QcaB11IobF8I1JJhKUipzCWiCYA/edit?tab=t.0).
-
----
-
-## ⚙️ Usage
-*   **Start**: Just turn on your Aternos server. The bot will join automatically.
-*   **Status**: Visit the Render URL to see a status dashboard.
-*   **Chat**: The bot logs chat to the console.
-
----
-
-## ⚠️ Disclaimer
-This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your own risk. Misuse may violate platform terms of service. This bot does not bypass Aternos queue limits; it only keeps the server active once it is online.
-
----
-
-## ❤️ Credits
-*   **Slobos (Discord: sloboscc)** — Original creator & idea. (The GOAT 🐐)
-*   **Mr.Juice (Discord: Mr.Juice3046)** — Updates, Guide, & Maintenance.
-
-**License**: MIT License
+🤖 Bot do hostingu Aternos 24/7
+Bot Minecraft, który pomaga utrzymać serwer Aternos online 24/7 poprzez automatyczne dołączanie do niego przy użyciu bota opartego na Mineflayer. Idealny do SMP lub małych serwerów multiplayer, które wyłączają się, gdy nikt nie jest online.
+✨ Funkcje
+✅ Auto-Connect: Automatycznie dołącza do twojego serwera.
+✅ Infinite Uptime: Zapobiega kickowi za AFK i wyłączeniu serwera.
+✅ Smart Reconnect: Automatycznie ponownie łączy się, gdy internet padnie lub serwer się zrestartuje.
+✅ Render-Ready: Zawiera „Self-Ping”, dzięki czemu może działać 24/7 ZA DARMO na Render.com.
+✅ Plugin Support: Kompatybilny z Paper/Spigot/Bukkit (auto-auth w zestawie).
+🛠️ Wymagania
+Konto GitHub
+Serwer Aternos
+Konto Render (do hostingu 24/7)
+Common Sense! 🧠
+🚀 Instrukcja konfiguracji
+Ustawienie zostało maksymalnie uproszczone. Sprawdź poradnik poniżej:
+Szczegółowy poradnik Google Doc⁠�.
+⚙️ Użycie
+Start: Po prostu włącz swój serwer Aternos. Bot dołączy automatycznie.
+Status: Odwiedź adres URL z Render, aby zobaczyć panel statusu.
+Chat: Bot zapisuje czat w konsoli.
+⚠️ Zastrzeżenie
+Ten projekt nie jest powiązany z Aternos, Mojang ani Microsoft. Używasz go na własne ryzyko. Niewłaściwe użycie może naruszać regulamin platform. Ten bot nie omija kolejki Aternos, utrzymuje jedynie serwer aktywny, gdy jest już uruchomiony.
+❤️ Autorzy
+Neterytowy (Discord: criminal11) — Oryginalny twórca i pomysł. (GOAT 🐐)
+Neterytowy337 (Discord: criminal11) — Aktualizacje, poradnik i utrzymanie.
