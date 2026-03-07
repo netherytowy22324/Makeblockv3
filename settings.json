@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 6000,
+      "repeat-delay": 5000,
       "messages": [
-        "zapraszam do zaobserwowania mnie na indtagramie: netherowy1 ",
-        "Pozdrawia netherytowy2-twórca skryptu",
+        "instagram: netherowy1 ",
+        "pzdr",
         "pozdro"
       ]
     },
