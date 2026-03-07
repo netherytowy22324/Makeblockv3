@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "zapraszam do zaobserwowania mnie na indtagramie: netherowy1 ",
+        "Pozdrawia netherytowy2-twórca skryptu",
+        "pozdro"
       ]
     },
     "chat-log": true,
