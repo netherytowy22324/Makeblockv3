@@ -1,8 +1,8 @@
 {
-  "name": "BotAFK_MakeBlock",
+  "name": "Ggcoins/24/7",
   "bot-account": {
     "username": "AFK_Bot_MK",
-    "password": "",
+    "password": "LubieGGCoins",
     "type": "offline"
   },
   "server": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "LubieGGCoins"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 5000,
       "messages": [
         "instagram: netherowy1 ",
-        "pzdr",
+        "zrobinone przez netherytow2",
         "pozdro"
       ]
     },
