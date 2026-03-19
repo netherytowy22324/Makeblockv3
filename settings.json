@@ -1,13 +1,13 @@
 {
-  "name": "makBlockBot",
+  "name": "TestDlaNiksera",
   "bot-account": {
-    "username": "AFK_Bot_MK",
+    "username": "nikserekBot",
     "password": "LubieGGCoins",
     "type": "offline"
   },
   "server": {
-    "ip": "MakeBlock.aternos.me",
-    "port": 47143,
+    "ip": "netherytowy2-jo9b.aternos.me",
+    "port": 16727,
     "version": "1.20.1"
   },
   "position": {
