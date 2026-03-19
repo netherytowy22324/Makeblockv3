@@ -1,12 +1,12 @@
 {
-  "name": "Ggcoins/24/7",
+  "name": "makBlockBot",
   "bot-account": {
     "username": "AFK_Bot_MK",
     "password": "LubieGGCoins",
     "type": "offline"
   },
   "server": {
-    "ip": "ggcoins.aternos.me",
+    "ip": "MakeBlock.aternos.me",
     "port": 25565,
     "version": "1.20.1"
   },
