@@ -1,13 +1,13 @@
 {
-  "name": "TestDlaNiksera",
+  "name": "ggcoinsBot24/7",
   "bot-account": {
-    "username": "nikserekBot",
+    "username": "GGcoinsBestServer",
     "password": "LubieGGCoins",
     "type": "offline"
   },
   "server": {
-    "ip": "netherytowy2-jo9b.aternos.me",
-    "port": 16727,
+    "ip": "ggcoins.aternos.me",
+    "port": 25565,
     "version": "1.20.1"
   },
   "position": {
